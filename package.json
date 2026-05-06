@@ -1,0 +1,21 @@
+{
+  "name": "miz-vue-gallery",
+  "version": "1.0.0",
+  "description": "Vue 3 photography portfolio gallery with animated category filtering, masonry grid, and lightbox — featuring original photography by Mirza Causevic",
+  "author": "Mirza Causevic <fknmiz@users.noreply.github.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/fknmiz/miz-vue-gallery",
+  "keywords": ["vue", "vue3", "photography", "gallery", "portfolio", "masonry", "lightbox"],
+  "dependencies": {
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@vitejs/plugin-vue": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
