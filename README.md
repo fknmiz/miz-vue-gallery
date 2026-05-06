@@ -1,8 +1,8 @@
-# 📸 Miz Photo Gallery
+# 📸 A Vue 3 Gallery
 
 > **A Vue 3 photography portfolio with animated category filtering, masonry grid layout, and a full lightbox viewer — built with real photographs by Mirza Causevic.**
 
-Built by **[Mirza Causevic](https://www.linkedin.com/in/mirzacausevic/)** as part of his professional front-end portfolio.
+Built by **[Mirza Causevic](https://www.linkedin.com/in/mirzacausevic/)** for front-end portfolio.
 
 ---
 
@@ -14,7 +14,7 @@ Built by **[Mirza Causevic](https://www.linkedin.com/in/mirzacausevic/)** as par
 - 🌙 **Dark / Light Mode** — Toggle with smooth CSS custom property transitions
 - ♿ **Fully Accessible** — Semantic HTML, keyboard nav, ARIA roles, skip link, focus management
 - 📱 **Responsive** — 3-column desktop → 2-column tablet → 1-column mobile
-- 📷 **Real Photography** — Original shots by Mirza Causevic (Landscape + Bosnian Food)
+- 📷 **Real Photography** — Original shots 
 
 ---
 
