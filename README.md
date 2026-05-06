@@ -47,7 +47,7 @@ miz-vue-gallery/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/fknmiz/miz-vue-gallery.git
+git clone https://github.com/mizcausevic-dev/miz-vue-gallery.git
 cd miz-vue-gallery
 # Add your photos to public/images/landscape/ and public/images/food/
 # Open index.html in browser or serve locally:
@@ -60,7 +60,7 @@ npx serve .
 
 1. Push to GitHub ✅
 2. Go to [vercel.com](https://vercel.com) → **Add New Project**
-3. Select `fknmiz/miz-vue-gallery`
+3. Select `mizcausevic-dev/miz-vue-gallery`
 4. Framework: **Other** (static) — Output: `./`
 5. Click **Deploy**
 
@@ -94,4 +94,4 @@ Photography © Mirza Causevic — all rights reserved.
 ---
 
 **Built by Miz Causevic**  
-[LinkedIn](https://www.linkedin.com/in/mirzacausevic/) · [Skills Portal](https://mizcausevic.com/skills/) · [GitHub](https://github.com/fknmiz)
+[LinkedIn](https://www.linkedin.com/in/mirzacausevic/) · [Skills Portal](https://mizcausevic.com/skills/) · [GitHub](https://github.com/mizcausevic-dev)
