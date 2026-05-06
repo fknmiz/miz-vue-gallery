@@ -1,6 +1,6 @@
 # 📸 A Vue 3 Gallery
 
-> **A Vue 3 photography portfolio with animated category filtering, masonry grid layout, and a full lightbox viewer — built with real photographs by Mirza Causevic.**
+> **A Vue 3 photography portfolio with animated category filtering, masonry grid layout, and a full lightbox viewer.**
 
 Built by **[Mirza Causevic](https://www.linkedin.com/in/mirzacausevic/)** for front-end portfolio.
 
